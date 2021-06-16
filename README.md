@@ -1,2 +1,2 @@
-# multiple-language-program
+# cplusplus-program
 This program combines more than one language to create one final product.
